@@ -1,6 +1,8 @@
 fun main() {
     Solution().run {
-        solution(arrayOf("Jane","Kim"))
+        solution(3)
+            .also { println(it) }
+        solution(4)
             .also { println(it) }
     }
 }
