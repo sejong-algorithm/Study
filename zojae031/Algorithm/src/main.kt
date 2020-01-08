@@ -1,8 +1,6 @@
 fun main() {
     Solution().run {
-        solution(3)
-            .also { println(it) }
-        solution(4)
+        solution(118372)
             .also { println(it) }
     }
 }
