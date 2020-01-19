@@ -1,3 +1,5 @@
+package `2week`
+
 //import java.util.regex.Pattern
 //
 //class Solution {
