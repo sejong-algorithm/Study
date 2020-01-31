@@ -60,13 +60,13 @@
 
 
 
-> 입력 데이터 형태  ![image-20200130161151157](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20200130161151157.png)
+> 입력 데이터 형태  ![image-20200131201134703](https://github.com/sejong-algorithm/Study/blob/master/%EC%B7%A8%EC%97%85%20%EC%8A%A4%ED%84%B0%EB%94%94/Hash/%EC%9E%85%EB%A0%A5%EB%8D%B0%EC%9D%B4%ED%84%B0.png?raw=true)
 > 
 
->결과값  ![image-20200130154137267](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20200130154137267.png)
+>결과값  ![image-20200130154137267](https://github.com/sejong-algorithm/Study/blob/master/%EC%B7%A8%EC%97%85%20%EC%8A%A4%ED%84%B0%EB%94%94/Hash/%EC%B6%9C%EB%A0%A5%EB%8D%B0%EC%9D%B4%ED%84%B0.png?raw=true)
 >
 
->코드  ![image-20200130154125301](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20200130154125301.png)
+>코드  ![image-20200130154125301](https://github.com/sejong-algorithm/Study/blob/master/%EC%B7%A8%EC%97%85%20%EC%8A%A4%ED%84%B0%EB%94%94/Hash/%EC%BD%94%EB%93%9C.png?raw=true)
 >
 
 
