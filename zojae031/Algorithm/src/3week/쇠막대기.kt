@@ -50,3 +50,15 @@ package `3week`
 //        return answer
 //    }
 //}
+
+fun call(c: Int): Int{
+    return c
+}
+
+fun main(){
+    val b :() ->Int = {
+        1}
+    print(b)
+   print( call(b()))
+
+}
