@@ -1,5 +1,3 @@
-package `3week`
-
 //fun main() {
 //    Solution().run {
 //        solution(intArrayOf(2, 1, 3, 2), 2)

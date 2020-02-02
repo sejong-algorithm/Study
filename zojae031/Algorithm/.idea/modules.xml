@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/2Week/2Week.iml" filepath="$PROJECT_DIR$/2Week/2Week.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3Week/3Week.iml" filepath="$PROJECT_DIR$/3Week/3Week.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4Week/4Week.iml" filepath="$PROJECT_DIR$/4Week/4Week.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5Week/5Week.iml" filepath="$PROJECT_DIR$/5Week/5Week.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithm.iml" filepath="$PROJECT_DIR$/Algorithm.iml" />
     </modules>
   </component>
