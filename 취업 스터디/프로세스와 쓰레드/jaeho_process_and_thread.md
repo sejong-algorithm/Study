@@ -146,7 +146,7 @@
 -> 스택에 들어가는 건 -> 함수, 매개변수 ,지역변수 
 -> 함수들이 독립적인 함수들이 있다 독립적인 일을 가능하게 한다. 그래서 스택부분을 독립적으로 놓은 것이다.
 
-tcb,pcb
+tcb,pcb에 대해서 다시한번 공부해보기 
 
 tcb (Task Control Block)
 pcb (process Control Block)
